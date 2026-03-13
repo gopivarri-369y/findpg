@@ -1,0 +1,30 @@
+.join-section {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  background: linear-gradient(180deg, #faf9f7 0%, #f5f2ef 100%);
+}
+
+.join-section-alt {
+  background: linear-gradient(180deg, #f5f2ef 0%, rgba(193, 127, 89, 0.06) 100%);
+}
+
+.join-inner {
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+.join-title {
+  font-size: 1.5rem;
+  color: #2d2a26;
+  margin-bottom: 0.5rem;
+}
+
+.join-text {
+  font-size: 1rem;
+  color: #5c5650;
+  margin-bottom: 1.25rem;
+}
+
+.join-section .btn {
+  display: inline-flex;
+}
